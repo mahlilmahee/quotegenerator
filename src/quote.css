@@ -1,0 +1,26 @@
+.quotediv{
+
+     margin:50px auto;
+     width:60%;
+     height:50%;
+     border-radius:20px;   
+     background-color:black;
+     padding:30px;
+}
+.button{
+    color:white;
+    background-color:black;
+    width:130px;
+    height:50px;
+    border-radius:20px;
+    font-weight: 700;
+}
+.button:click{
+    color:red;
+    background-color:white;
+}
+.heading{
+    color:rgb(4, 190, 223);
+    font-size:1.8rem;
+
+}
